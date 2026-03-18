@@ -1,6 +1,6 @@
 # 🎂 Birthday Zine — Ivan
 
-A self-contained interactive birthday card web app built as a single HTML file. Styled as a mobile phone UI mockup with a pastel blue and yellow indie-zine aesthetic, animated confetti, and multiple interactive popups.
+A self-contained interactive birthday card web app built. Styled as a mobile phone UI mockup with a pastel blue and yellow indie-zine aesthetic, animated confetti, and multiple interactive popups.
 
 ---
 
